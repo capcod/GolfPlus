@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shops type="array">
+  <shop>
+    <id type="integer">2</id>
+    <latitude>48.87974</latitude>
+    <longitude>2.28713</longitude>
+    <nom>Atelier Golf Plus Maillot</nom>
+  </shop>
+  <shop>
+    <id type="integer">7</id>
+    <latitude>48.8518894</latitude>
+    <longitude>2.2051279</longitude>
+    <nom>Atelier Golf Plus Saint-Cloud</nom>
+  </shop>
+  <shop>
+    <id type="integer">18</id>
+    <latitude>48.86237</latitude>
+    <longitude>2.23792 </longitude>
+    <nom>Centre d'Essai Golf Plus Hippodrome de Longchamp</nom>
+  </shop>
+  <shop>
+    <id type="integer">17</id>
+    <latitude>48.8525283</latitude>
+    <longitude>2.2057004</longitude>
+    <nom>Fitting Center Golf Plus de St Cloud</nom>
+  </shop>
+  <shop>
+    <id type="integer">10</id>
+    <latitude>43.4736677</latitude>
+    <longitude>-1.5329974</longitude>
+    <nom>Golf Plus Biarritz</nom>
+  </shop>
+  <shop>
+    <id type="integer">11</id>
+    <latitude>43.5818439</latitude>
+    <longitude>7.0102441</longitude>
+    <nom>Golf Plus Cannes</nom>
+  </shop>
+  <shop>
+    <id type="integer">16</id>
+    <latitude>33.5333333</latitude>
+    <longitude>-7.5833333</longitude>
+    <nom>Golf Plus Casablanca</nom>
+  </shop>
+  <shop>
+    <id type="integer">12</id>
+    <latitude>50.6525576</latitude>
+    <longitude>3.122613</longitude>
+    <nom>Golf Plus Lille</nom>
+  </shop>
+  <shop>
+    <id type="integer">4</id>
+    <latitude>48.86383</latitude>
+    <longitude>2.23297</longitude>
+    <nom>Golf Plus Longchamp</nom>
+  </shop>
+  <shop>
+    <id type="integer">13</id>
+    <latitude>45.7696811</latitude>
+    <longitude>4.8544136</longitude>
+    <nom>Golf Plus Lyon</nom>
+  </shop>
+  <shop>
+    <id type="integer">19</id>
+    <latitude>31.631321</latitude>
+    <longitude>-8.012478</longitude>
+    <nom>Golf Plus Marrakech</nom>
+  </shop>
+  <shop>
+    <id type="integer">3</id>
+    <latitude>48.87981</latitude>
+    <longitude>2.28726</longitude>
+    <nom>Golf Plus Mode &amp; Shoes Paris 17e</nom>
+  </shop>
+  <shop>
+    <id type="integer">5</id>
+    <latitude>48.9306601</latitude>
+    <longitude>1.9775153</longitude>
+    <nom>Golf Plus Orgeval</nom>
+  </shop>
+  <shop>
+    <id type="integer">1</id>
+    <latitude>48.8796808</latitude>
+    <longitude>2.2869959</longitude>
+    <nom>Golf Plus Paris 17e</nom>
+  </shop>
+  <shop>
+    <id type="integer">9</id>
+    <latitude>48.7823639</latitude>
+    <longitude>2.6159315</longitude>
+    <nom>Golf Plus Pontault Combault</nom>
+  </shop>
+  <shop>
+    <id type="integer">6</id>
+    <latitude>48.8518894</latitude>
+    <longitude>2.2051279</longitude>
+    <nom>Golf Plus Saint-Cloud</nom>
+  </shop>
+  <shop>
+    <id type="integer">14</id>
+    <latitude>43.6772946</latitude>
+    <longitude>1.3643695</longitude>
+    <nom>Golf Plus Toulouse</nom>
+  </shop>
+  <shop>
+    <id type="integer">8</id>
+    <latitude>48.78657</latitude>
+    <longitude>2.14980</longitude>
+    <nom>Golf Plus Versailles</nom>
+  </shop>
+  <shop>
+    <id type="integer">15</id>
+    <latitude>50.6933753</latitude>
+    <longitude>4.4042999</longitude>
+    <nom>Golf Plus Waterloo</nom>
+  </shop>
+</shops>
